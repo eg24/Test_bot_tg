@@ -3,9 +3,6 @@ import datetime
 from time import sleep
 
 
-url = 'https://api.telegram.org/bot<1032008831:AAFisETpdDWlgYteTVBMUWu7jq3EM8hyvTQ>'
-token = '1032008831:AAFisETpdDWlgYteTVBMUWu7jq3EM8hyvTQ'
-
 class BotHandler:
 
     def __init__(self, token):
